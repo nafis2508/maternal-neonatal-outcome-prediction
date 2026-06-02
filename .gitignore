@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Data files larger than GitHub limits (optional)
+# data/*.csv
